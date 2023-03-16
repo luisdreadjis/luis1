@@ -3,4 +3,5 @@
 ### esto es como un h3
 lugar para compartir código
 <p>Hola, qué tal <em>soy yo</em></p>
-![10 -Casa-Estudio-Luis-Barragán-4](https://user-images.githubusercontent.com/128090385/225734081-c1ba25e5-c800-417b-9361-78b0d90f6386.jpg)
+
+![logoFooter](https://user-images.githubusercontent.com/128090385/225734357-b966e129-19ff-44da-9352-5b65db8c8ef8.png)
